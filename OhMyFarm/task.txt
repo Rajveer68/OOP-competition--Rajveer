@@ -47,7 +47,7 @@ When designing your program, you should:
   - use appropriate access modifiers (e.g. public, private)
   - separation of concerns (e.g. avoid long and bulky methods)
 
-You may also wish to consider more advanced OO features, such as:
+You may also wish to consider more advanced OOP features, such as:
 
   - interfaces
   - inheritance
